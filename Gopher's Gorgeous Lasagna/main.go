@@ -1,7 +1,5 @@
-// In this exercise I'm going to write some code 
+// In this exercise I'm going to write some code
 //to help me cook a brilliant lasagna from my favorite cooking book.
-
-
 
 package main
 
